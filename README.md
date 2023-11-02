@@ -37,7 +37,7 @@ For run clustering you need precalculated embeddings. For this project embedding
 * __value__ - __1024 float vector__;
 
 ---
-Example of clustering MEMES
+## Example of clustering MEMES
 
 ![image](https://github.com/mosvlad/meme_clusterization/assets/31764930/771cd032-282a-47e6-8eb2-f675b0806027)
 ![image](https://github.com/mosvlad/meme_clusterization/assets/31764930/2c62ea7e-7e07-4b24-95d9-bb1317761d8b)
